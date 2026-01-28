@@ -1,3 +1,6 @@
+<img width="1080" height="643" alt="image" src="https://github.com/user-attachments/assets/47977918-0016-4b91-9a86-9f94320d1c5a" />
+
+
 # 🔢 Counter App
 
 A modern **Counter Application** built using **React** and **Tailwind CSS**.
