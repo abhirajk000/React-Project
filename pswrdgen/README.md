@@ -1,3 +1,7 @@
+![SCR-20260128-uqzx](https://github.com/user-attachments/assets/25b4a858-893d-4b36-9418-1835843cdd9a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/25b4a858-893d-4b36-9418-1835843cdd9a" width="650" />
+</p>
 
 # 🔐 Password Generator
 
