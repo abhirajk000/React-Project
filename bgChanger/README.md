@@ -13,9 +13,5 @@ This is a simple React app where you can change the background color by clicking
 - Vite
 - Tailwind 
 
-## How to Run the Project
 
-1. Open the project folder
-```bash
-cd bgChanger
 <img width="2048" height="1148" alt="image" src="https://github.com/user-attachments/assets/c62eb3c5-e90d-4833-8d2d-450c4cdf4f19" />
